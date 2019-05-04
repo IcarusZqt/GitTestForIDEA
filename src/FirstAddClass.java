@@ -10,6 +10,6 @@ public class FirstAddClass {
 		System.out.println("我是新添加的方法！");
 	}
 	public void add2(){
-
+		System.out.println("1.0版本final");
 	}
 }
