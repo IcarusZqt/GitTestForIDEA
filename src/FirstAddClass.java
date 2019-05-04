@@ -9,4 +9,7 @@ public class FirstAddClass {
 	public void add1(){
 		System.out.println("我是新添加的方法！");
 	}
+	public void add2(){
+
+	}
 }
